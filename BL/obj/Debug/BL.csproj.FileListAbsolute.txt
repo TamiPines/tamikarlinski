@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Tami\BL\bin\Debug\BL.dll.config
+C:\Users\User\Desktop\Tami\BL\bin\Debug\BL.dll
+C:\Users\User\Desktop\Tami\BL\bin\Debug\BL.pdb
+C:\Users\User\Desktop\Tami\BL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\Tami\BL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Tami\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Tami\BL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\Tami\BL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\Tami\BL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Tami\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Tami\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tami\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tami\BL\obj\Debug\BL.dll
+C:\Users\User\Desktop\Tami\BL\obj\Debug\BL.pdb
